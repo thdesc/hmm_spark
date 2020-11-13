@@ -1,4 +1,4 @@
-# pos_tagging
+# Hidden Markov Model: Map-Reduce implementation of the Baum-Welch algorithm (EM)
 
 Implementation of the Baum-Welch algorithm (EM) for the estimation of parameters of Hidden Markov Model in a distributed fashion (using PySpark).
 
